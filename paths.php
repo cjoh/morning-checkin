@@ -22,8 +22,7 @@
 */
 
 $environments = array(
-  'local' => array('http://localhost*', '*.dev*'),
-  'production' => array('http://morningcheckin.limechile.com*', '*morningcheckin.com*')
+  'local' => array('http://localhost*', '*.dev*')
 );
 
 // --------------------------------------------------------------
