@@ -1,0 +1,1 @@
+<a href="/" title="" class="logo"><h2 class="logotype">MorningCheckin<span class="logo-bits logo-flag">⚑</span> </h2></a>

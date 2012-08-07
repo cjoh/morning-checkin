@@ -1,0 +1,1 @@
+<title><?= Helper::fullTitle(Section::yield('page_title')) ?></title>
