@@ -18,7 +18,7 @@ This app is not intended for lots of users -- instead, it's intent is that you w
 
 ## Easy Installation
 
-1. [Download](https://github.com/cjoh/morningcheckin/zipball/master) the application
+1. [Download](https://github.com/cjoh/morning-checkin/zipball/master) the application
 2. Edit application/config/database.php to suit your needs, and create a database if you need to
 3. Run the necessary migrations:
 
