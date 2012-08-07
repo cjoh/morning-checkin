@@ -2,6 +2,11 @@
 
 return array(
 
+	/* MorningCheckin GitHub Auth */
+  'github_id' => '',
+  'github_secret' => '',
+
+
 	/*
 	|--------------------------------------------------------------------------
 	| Default Authentication Driver
